@@ -1,0 +1,35 @@
+# Ignore .env file
+.env
+
+# Ignore projectenv directory
+/projenv/
+
+
+# Ignore .venv directory
+.venv/
+
+# Ignore .ruff_cache directory
+.ruff_cache/
+
+# Ignore .mypy_cache directory
+.mypy_cache/
+
+# Ignore .pytest_cache directory
+.pytest_cache/
+
+# Ignore __pycache__ directories recursively
+**/__pycache__/
+
+# Ignore *.pem certificates
+*.pem
+*.json
+*.toml
+
+# Ignore other common temporary files and directories
+.pyc
+*~
+*.swp
+log/
+tmp/
+~/.pyenv/
+.cfg

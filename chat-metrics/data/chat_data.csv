@@ -1,0 +1,185 @@
+timestamp,user_id,message,response_time,sentiment
+2023-10-01 10:00:00,1,"Hello, how can I help you?",5,positive
+2023-10-01 10:01:00,2,"What are your hours?",3,neutral
+2023-10-01 10:02:00,1,"We are open from 9 to 5.",4,positive
+2023-10-01 10:03:00,3,"I need help with my order.",6,negative
+2023-10-01 10:04:00,1,"Sure, let me check that for you.",5,positive
+2023-10-01 10:05:00,2,"Thank you!",2,positive
+2023-10-01 10:28:00,15,"I love your products!",2,positive
+2023-10-01 10:29:00,1,"Thank you for your support!",3,positive
+2023-10-01 10:49:00,1,"Yes, a one-year warranty is included.",5,positive
+2023-10-02 09:00:00,26,"What are your shipping options?",4,neutral
+2023-10-02 09:15:00,27,"Can I update my shipping address?",5,neutral
+2023-10-02 09:30:00,28,"Do you offer gift wrapping?",3,positive
+2023-10-02 09:45:00,29,"How do I unsubscribe from emails?",4,neutral
+2023-10-03 10:00:00,30,"What is your exchange policy?",5,neutral
+2023-10-03 10:15:00,31,"Can I get a discount on bulk orders?",6,neutral
+2023-10-03 10:30:00,32,"How do I apply a gift card?",4,positive
+2023-10-03 10:45:00,33,"Is there a loyalty program?",3,positive
+2023-10-04 11:00:00,34,"What is the status of my refund?",7,negative
+2023-10-04 11:15:00,35,"Can I change my payment method?",5,neutral
+2023-10-04 11:30:00,36,"How do I contact the manager?",6,negative
+2023-10-04 11:45:00,37,"What are your customer service hours?",4,neutral
+2023-10-05 12:00:00,38,"Do you have a mobile app?",3,positive
+2023-10-05 12:15:00,39,"How do I delete my account?",5,negative
+2023-10-05 12:30:00,40,"Can I get a receipt for my purchase?",2,positive
+2023-10-05 12:45:00,41,"What is your environmental policy?",4,positive
+2023-10-06 09:00:00,42,"Do you offer international shipping?",5,neutral
+2023-10-06 09:15:00,43,"How long does shipping take?",4,neutral
+2023-10-06 09:30:00,44,"Can I cancel my order after placing it?",6,neutral
+2023-10-06 09:45:00,45,"What is the return window?",5,neutral
+2023-10-07 10:00:00,46,"Do you price match competitors?",4,neutral
+2023-10-07 10:15:00,47,"Your website is very easy to use!",2,positive
+2023-10-07 10:30:00,48,"I'm not happy with the product quality.",7,negative
+2023-10-07 10:45:00,49,"Can I reorder a previous purchase?",3,neutral
+2023-10-08 11:00:00,50,"Is there a student discount?",4,neutral
+2023-10-08 11:15:00,51,"Great customer service experience!",2,positive
+2023-10-08 11:30:00,52,"My package arrived damaged.",8,negative
+2023-10-08 11:45:00,53,"Do you accept Apple Pay?",3,neutral
+2023-10-09 12:00:00,54,"Can I schedule delivery?",4,neutral
+2023-10-09 12:15:00,55,"The checkout process was smooth.",3,positive
+2023-10-09 12:30:00,56,"I received the wrong item.",7,negative
+2023-10-09 12:45:00,57,"Can I pause my subscription?",5,neutral
+2023-10-10 09:00:00,58,"How do I track my order?",3,neutral
+2023-10-10 09:15:00,59,"Love the eco-friendly packaging!",2,positive
+2023-10-10 09:30:00,60,"I'm missing items in my order.",7,negative
+2023-10-10 09:45:00,61,"Is in-store pickup available?",4,neutral
+2023-10-11 10:00:00,62,"The app keeps crashing!",8,negative
+2023-10-11 10:15:00,63,"Thanks for the quick delivery!",3,positive
+2023-10-11 10:30:00,64,"Where can I leave a review?",4,neutral
+2023-10-11 10:45:00,65,"Your team was very helpful.",3,positive
+2023-10-12 11:00:00,66,"How do I redeem reward points?",4,neutral
+2023-10-12 11:15:00,67,"Unhappy with the return policy.",6,negative
+2023-10-12 11:30:00,68,"Site is hard to navigate.",6,negative
+2023-10-12 11:45:00,69,"Do you restock sold out items?",5,neutral
+2023-10-13 12:00:00,70,"Really impressed with the quality!",2,positive
+2023-10-13 12:15:00,71,"How do I stop notifications?",4,neutral
+2023-10-13 12:30:00,72,"You guys are doing great!",2,positive
+2023-10-13 12:45:00,73,"Can I return an item in-store?",5,neutral
+2023-10-14 09:00:00,74,"Why was my card declined?",7,negative
+2023-10-14 09:15:00,75,"The order page won’t load.",6,negative
+2023-10-14 09:30:00,76,"Great deals and promotions!",3,positive
+2023-10-14 09:45:00,77,"Do you offer price adjustments?",5,neutral
+2023-10-15 10:00:00,78,"Product arrived earlier than expected!",2,positive
+2023-10-15 10:15:00,79,"How do I update my preferences?",4,neutral
+2023-10-15 10:30:00,80,"The live chat agent was rude.",7,negative
+2023-10-15 10:45:00,81,"Can I exchange a gift?",5,neutral
+2023-10-16 11:00:00,82,"Loved the unboxing experience!",3,positive
+2023-10-16 11:15:00,83,"How do I report a bug?",5,neutral
+2023-10-16 11:30:00,84,"I want to speak to a supervisor.",6,negative
+2023-10-16 11:45:00,85,"Do you offer gift receipts?",3,neutral
+2023-10-17 12:00:00,86,"Thanks for the support!",2,positive
+2023-10-17 12:15:00,87,"How can I leave feedback?",4,neutral
+2023-10-17 12:30:00,88,"Received an empty box.",8,negative
+2023-10-17 12:45:00,89,"Amazing packaging and branding!",2,positive
+2023-10-18 09:00:00,90,"Can I add items after checkout?",5,neutral
+2023-10-18 09:15:00,91,"Disappointed with customer service.",7,negative
+2023-10-18 09:30:00,92,"The delivery driver was polite.",3,positive
+2023-10-18 09:45:00,93,"Why was my order delayed?",6,negative
+2023-10-19 10:00:00,94,"Is express shipping available?",4,neutral
+2023-10-19 10:15:00,95,"Love the new app design!",2,positive
+2023-10-19 10:30:00,96,"My refund hasn’t arrived yet.",7,negative
+2023-10-19 10:45:00,97,"How do I verify my email?",4,neutral
+2023-10-20 11:00:00,98,"Excellent value for money!",2,positive
+2023-10-20 11:15:00,99,"Do you ship to PO Boxes?",5,neutral
+2023-10-20 11:30:00,100,"Your ad was misleading.",6,negative
+2023-10-20 11:45:00,101,"App interface is very intuitive.",3,positive
+2023-10-21 12:00:00,102,"Can I get a paper invoice?",3,neutral
+2023-10-21 12:15:00,103,"Package was left in the rain.",7,negative
+2023-10-21 12:30:00,104,"Quick and easy returns!",2,positive
+2023-10-21 12:45:00,105,"Why is shipping so expensive?",6,negative
+2023-10-22 09:00:00,106,"Can I save items for later?",4,neutral
+2023-10-22 09:15:00,107,"Customer care resolved my issue fast!",3,positive
+2023-10-22 09:30:00,108,"Item was out of stock after order.",6,negative
+2023-10-22 09:45:00,109,"How do I get order confirmation?",3,neutral
+2023-10-23 10:00:00,110,"Awesome seasonal offers!",2,positive
+2023-10-23 10:15:00,111,"Unable to apply coupon code.",6,negative
+2023-10-23 10:30:00,112,"Are there corporate discounts?",5,neutral
+2023-10-23 10:45:00,113,"Super happy with the purchase!",2,positive
+2023-10-24 11:00:00,114,"How do I reset my password?",4,neutral
+2023-10-24 11:15:00,115,"Lost package, no help from support.",8,negative
+2023-10-24 11:30:00,116,"Seamless login experience!",2,positive
+2023-10-24 11:45:00,117,"Can I change my email address?",4,neutral
+2023-10-25 12:00:00,118,"What’s your privacy policy?",5,neutral
+2023-10-25 12:15:00,119,"Very responsive support team!",2,positive
+2023-10-25 12:30:00,120,"The product looked used.",7,negative
+2023-10-25 12:45:00,121,"Can I buy a gift card online?",3,neutral
+2023-10-26 09:00:00,122,"Happy with the quality!",2,positive
+2023-10-26 09:15:00,123,"Item didn’t match the description.",7,negative
+2023-10-26 09:30:00,124,"Do you have holiday sales?",3,neutral
+2023-10-26 09:45:00,125,"Fast and friendly delivery!",2,positive
+2023-10-27 10:00:00,126,"How do I subscribe to emails?",4,neutral
+2023-10-27 10:15:00,127,"Terrible unboxing experience.",6,negative
+2023-10-27 10:30:00,128,"Product quality exceeded my expectations!",2,positive
+2023-10-27 10:45:00,129,"Can I split my payment?",4,neutral
+2023-10-28 11:00:00,130,"Delivery was late and box was damaged.",8,negative
+2023-10-28 11:15:00,131,"Simple and quick signup!",2,positive
+2023-10-28 11:30:00,132,"How do I update billing info?",4,neutral
+2023-10-28 11:45:00,133,"Package was stolen, please help.",9,negative
+2023-10-29 12:00:00,134,"Loving the loyalty perks!",3,positive
+2023-10-29 12:15:00,135,"Checkout keeps failing.",6,negative
+2023-10-29 12:30:00,136,"Can I create a wishlist?",3,neutral
+2023-10-29 12:45:00,137,"My return still hasn’t been processed.",7,negative
+2023-10-30 09:00:00,138,"Best shopping experience ever!",2,positive
+2023-10-30 09:15:00,139,"Your FAQ page is really helpful.",3,positive
+2023-10-30 09:30:00,140,"Frustrated with your mobile app.",7,negative
+2023-10-30 09:45:00,141,"Can I get SMS order updates?",4,neutral
+2023-11-01 09:00:00,142,"Can I pay with cryptocurrency?",4,neutral
+2023-11-01 10:15:00,143,"Fantastic service once again!",2,positive
+2023-11-01 11:30:00,144,"Where do I find the size chart?",3,neutral
+2023-11-01 12:45:00,145,"My promo code didn’t work.",6,negative
+2023-11-02 10:00:00,146,"Product arrived missing pieces.",7,negative
+2023-11-02 11:15:00,147,"Can I track my return shipment?",4,neutral
+2023-11-02 12:30:00,148,"So happy with my recent order!",2,positive
+2023-11-03 09:45:00,149,"Is there an affiliate program?",4,neutral
+2023-11-04 10:30:00,150,"Received a duplicate item.",6,negative
+2023-11-04 11:00:00,151,"Love the new packaging design!",2,positive
+2023-11-04 13:00:00,152,"Why was my return rejected?",8,negative
+2023-11-05 12:00:00,153,"Can I bundle items for discount?",5,neutral
+2023-11-06 09:00:00,154,"Thanks for the birthday coupon!",3,positive
+2023-11-06 10:45:00,155,"Very confusing checkout process.",6,negative
+2023-11-07 08:30:00,156,"Can I pay using multiple cards?",4,neutral
+2023-11-08 09:00:00,157,"Your delivery partner was rude.",7,negative
+2023-11-08 09:15:00,158,"Everything arrived perfectly!",2,positive
+2023-11-08 11:00:00,159,"How do I update notification settings?",3,neutral
+2023-11-08 13:30:00,160,"Why was my loyalty tier downgraded?",6,negative
+2023-11-09 10:00:00,161,"App loads really fast!",2,positive
+2023-11-10 12:45:00,162,"Received wrong item color.",6,negative
+2023-11-10 13:00:00,163,"Can I opt out of marketing?",4,neutral
+2023-11-11 11:30:00,164,"Got my refund faster than expected!",2,positive
+2023-11-11 12:00:00,165,"How do I use store credit?",3,neutral
+2023-11-12 08:45:00,166,"Still waiting for order confirmation.",7,negative
+2023-11-12 09:00:00,167,"Is there a way to reorder fast?",3,neutral
+2023-11-13 10:00:00,168,"I had a great support experience.",2,positive
+2023-11-14 11:00:00,169,"Live chat wasn’t helpful.",6,negative
+2023-11-14 11:15:00,170,"Love your holiday collection!",2,positive
+2023-11-14 12:30:00,171,"Can I return without a receipt?",5,neutral
+2023-11-15 10:15:00,172,"The app froze during checkout.",7,negative
+2023-11-15 11:45:00,173,"Loved the little thank-you card!",2,positive
+2023-11-16 09:00:00,174,"Are your items ethically made?",4,neutral
+2023-11-16 09:30:00,175,"Why didn’t I get tracking info?",6,negative
+2023-11-16 12:00:00,176,"Appreciate the fast response!",2,positive
+2023-11-17 13:00:00,177,"The sizing guide was inaccurate.",6,negative
+2023-11-17 14:00:00,178,"Your store layout is so modern!",3,positive
+2023-11-18 09:45:00,179,"Do you sell refurbished items?",5,neutral
+2023-11-19 08:00:00,180,"The wait time was too long.",7,negative
+2023-11-20 09:30:00,181,"How do I cancel auto-renew?",5,neutral
+2023-11-20 10:45:00,182,"Loved the hand-written note!",2,positive
+2023-11-20 12:15:00,183,"Why is my account locked?",7,negative
+2023-11-21 09:00:00,184,"Received a used product.",8,negative
+2023-11-21 11:15:00,185,"Easy to track shipments!",2,positive
+2023-11-22 10:30:00,186,"Where do I enter promo codes?",3,neutral
+2023-11-22 11:00:00,187,"Checkout keeps looping back.",7,negative
+2023-11-23 08:00:00,188,"Is there warranty on this item?",5,neutral
+2023-11-23 09:00:00,189,"Received a thank-you freebie!",2,positive
+2023-11-24 10:00:00,190,"Why does it say out of stock after I ordered?",8,negative
+2023-11-24 11:30:00,191,"Really sleek website interface.",3,positive
+2023-11-24 12:15:00,192,"Site won’t accept my ZIP code.",6,negative
+2023-11-25 09:00:00,193,"Can I place a phone order?",4,neutral
+2023-11-25 10:30:00,194,"Delivery was right on time!",2,positive
+2023-11-26 09:00:00,195,"How do I cancel a subscription box?",5,neutral
+2023-11-26 11:00:00,196,"Item was broken on arrival.",8,negative
+2023-11-27 12:30:00,197,"Awesome support agent today!",2,positive
+2023-11-27 13:45:00,198,"Why was my account charged twice?",7,negative
+2023-11-28 09:00:00,199,"Can I share my wishlist?",3,neutral
+2023-11-28 11:15:00,200,"Site is easy to navigate!",2,positive

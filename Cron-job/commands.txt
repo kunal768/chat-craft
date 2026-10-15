@@ -1,0 +1,4 @@
+cd cron-job
+python fetch_google_sheets_docs.py
+$env:GOPATH="$env:USERPROFILE\go"
+go run cron_job.go
